@@ -7,12 +7,12 @@
 ###### Wireless security tool 
 
 ## About
-Wireless security tool is a Linux program that automates wireless by using polular tools like Wireshark (tshark) and Aircrack-ng Suite.
+Wireless security tool is a Linux program that automates wireless auditing by using popular tools like Wireshark (tshark) and the Aircrack-ng Suite.
 
 ## Table of Content
-- [Dependencies](#Dependencies)
-- [Installation](#Installation)
-- [Usage](#Usage)
+- [Dependencies](#dependencies)
+- [Installation](#installation)
+- [Usage](#usage)
 
 ## Dependencies
 1. Linux standalone Operating System (OS)
@@ -20,11 +20,10 @@ Wireless security tool is a Linux program that automates wireless by using polul
 3. Aircrack-ng Suite
 
 ## Installation
-###### git clone 
-###### cd wireless-sec
-###### python3 -m venv myenv
-###### source myenv/bin/activate
-###### pip install -r requirements.txt
 
-## Usage
-###### python3 main.py
+```bash
+git clone https://github.com/your-username/wireless-sec.git
+cd wireless-sec
+python3 -m venv myenv
+source myenv/bin/activate
+pip install -r requirements.txt
