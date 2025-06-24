@@ -38,5 +38,7 @@ python3 main.py
 ```
 
 ## Contributors
-See the full list of [contributors](https://github.com/SokoJames/wireless-sec/graphs/contributors) who participated in this project.
+Thanks to everyone who has contributed!
+[![](https://contrib.rocks/image?repo=SokoJames/wireless-sec)](https://github.com/SokoJames/wireless-sec/graphs/contributors)
+
 
