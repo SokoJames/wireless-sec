@@ -35,3 +35,8 @@ pip install -r requirements.txt
 ## Usage
 ```bash
 python3 main.py
+```
+
+## Contributors
+See the full list of [contributors](https://github.com/SokoJames/wireless-sec/graphs/contributors) who participated in this project.
+
