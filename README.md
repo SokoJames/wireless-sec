@@ -1,9 +1,5 @@
 # wireless-sec
 
-<p align="left">
-  <img src="logo.png" alt="wireless-sec logo" width="200"/>
-</p>
-
 ###### Wireless security tool 
 
 ## About
