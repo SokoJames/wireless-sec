@@ -21,9 +21,12 @@ Wireless security tool is a Linux program that automates wireless auditing by us
 
 ## Installation
 
-```bash
-git clone https://github.com/your-username/wireless-sec.git
-cd wireless-sec
-python3 -m venv myenv
-source myenv/bin/activate
-pip install -r requirements.txt
+`git clone https://github.com/your-username/wireless-sec.git`  
+`cd wireless-sec`  
+`python3 -m venv myenv`  
+`source myenv/bin/activate`  
+`pip install -r requirements.txt`
+
+## Usage
+
+`python3 main.py`
