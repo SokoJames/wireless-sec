@@ -43,6 +43,11 @@ python3 ui_desktop.py
 ```
 ![Image](https://github.com/user-attachments/assets/522c519c-138a-432a-84bb-ad9a8bb4fc0b)
 
+```bash
+cd detection_tools/
+```
+![Image](https://github.com/user-attachments/assets/5b977b46-5960-41f6-a140-6b5c9e43652d)
+
 ## Contributors
 Thanks to everyone who has contributed!
 [![](https://contrib.rocks/image?repo=SokoJames/wireless-sec)](https://github.com/SokoJames/wireless-sec/graphs/contributors)
