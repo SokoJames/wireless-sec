@@ -18,7 +18,7 @@ Wireless security tool is a Linux program that automates wireless auditing by us
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/wireless-sec.git
+git clone https://github.com/SokoJames/wireless-sec.git
 ```
 ```bash
 cd wireless-sec
