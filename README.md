@@ -48,6 +48,26 @@ cd detection_tools/
 ```
 ![Image](https://github.com/user-attachments/assets/5b977b46-5960-41f6-a140-6b5c9e43652d)
 
+# Student List (Group 4) - CYS331 Lab
+
+| **Student Name**   | **Student Number** |
+|--------------------|--------------------|
+| James Soko         | 20231392           |
+| Emmanuel Kangwa    | 20231863           |
+| Gabriel Kapambwe   | 20230392           |
+| Courage Silweya    | 20230099           |
+| Owen Phiri         | 20231625           |
+| Esther Ngoma       | 20230442           |
+| Tapela Ziyela      | 20232005           |
+| Idah Malasha       | 20231373           |
+| Chimuka Muntanga   | 20231270           |
+| Howard Musakanya   | 20231490           |
+| Luckson Malupande  | 22175237           |
+| Victor Chola       |                    |
+| Hengry Mutale      |                    |
+| Violate Kikumbaila |                    |
+|                    |                    |
+
 ## Contributors
 Thanks to everyone who has contributed!
 [![](https://contrib.rocks/image?repo=SokoJames/wireless-sec)](https://github.com/SokoJames/wireless-sec/graphs/contributors)
