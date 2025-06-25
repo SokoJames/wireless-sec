@@ -1,0 +1,7 @@
+requests
+pandas
+openpyxl
+pytz
+pyshark
+scapy
+joblib
