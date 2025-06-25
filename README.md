@@ -35,8 +35,8 @@ pip install -r requirements.txt
 ## Usage
 ```bash
 python3 cli.py -h
-![Image](https://github.com/user-attachments/assets/2511eb25-5f32-46cd-9e2c-ea5c89982663)
 ```
+![Image](https://github.com/user-attachments/assets/2511eb25-5f32-46cd-9e2c-ea5c89982663)
 
 ## Contributors
 Thanks to everyone who has contributed!
