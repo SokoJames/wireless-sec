@@ -38,6 +38,11 @@ python3 cli.py -h
 ```
 ![Image](https://github.com/user-attachments/assets/2511eb25-5f32-46cd-9e2c-ea5c89982663)
 
+```bash
+python3 ui_desktop.py
+```
+![Image](https://github.com/user-attachments/assets/522c519c-138a-432a-84bb-ad9a8bb4fc0b)
+
 ## Contributors
 Thanks to everyone who has contributed!
 [![](https://contrib.rocks/image?repo=SokoJames/wireless-sec)](https://github.com/SokoJames/wireless-sec/graphs/contributors)
