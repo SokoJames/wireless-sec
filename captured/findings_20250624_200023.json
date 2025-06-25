@@ -1,0 +1,428 @@
+{
+  "timestamp": "2025-06-24T20:00:23.737086",
+  "packets_processed": 1332,
+  "devices_tracked": 0,
+  "anomalies": [
+    {
+      "type": "traffic_anomaly",
+      "anomalies": [
+        "packet_rate_spike"
+      ],
+      "stats": {
+        "packet_count": 1050,
+        "byte_count": 128518,
+        "avg_packet_size": 122.39809523809524,
+        "max_packet_size": 669,
+        "min_packet_size": 42,
+        "flow_duration": 25.28082299232483
+      },
+      "timestamp": 1750788060.3244565
+    },
+    {
+      "type": "traffic_anomaly",
+      "anomalies": [
+        "packet_rate_spike"
+      ],
+      "stats": {
+        "packet_count": 1100,
+        "byte_count": 134774,
+        "avg_packet_size": 122.52181818181818,
+        "max_packet_size": 669,
+        "min_packet_size": 42,
+        "flow_duration": 26.102043867111206
+      },
+      "timestamp": 1750788060.512049
+    },
+    {
+      "type": "traffic_anomaly",
+      "anomalies": [
+        "packet_rate_spike"
+      ],
+      "stats": {
+        "packet_count": 1150,
+        "byte_count": 141271,
+        "avg_packet_size": 122.84434782608696,
+        "max_packet_size": 669,
+        "min_packet_size": 42,
+        "flow_duration": 28.040256023406982
+      },
+      "timestamp": 1750788060.7043977
+    },
+    {
+      "type": "traffic_anomaly",
+      "anomalies": [
+        "packet_rate_spike"
+      ],
+      "stats": {
+        "packet_count": 1200,
+        "byte_count": 145890,
+        "avg_packet_size": 121.575,
+        "max_packet_size": 669,
+        "min_packet_size": 42,
+        "flow_duration": 29.47218608856201
+      },
+      "timestamp": 1750788060.8802075
+    },
+    {
+      "type": "traffic_anomaly",
+      "anomalies": [
+        "packet_rate_spike"
+      ],
+      "stats": {
+        "packet_count": 1250,
+        "byte_count": 151773,
+        "avg_packet_size": 121.4184,
+        "max_packet_size": 669,
+        "min_packet_size": 42,
+        "flow_duration": 30.290671825408936
+      },
+      "timestamp": 1750788061.0502708
+    },
+    {
+      "type": "traffic_anomaly",
+      "anomalies": [
+        "packet_rate_spike"
+      ],
+      "stats": {
+        "packet_count": 1300,
+        "byte_count": 157645,
+        "avg_packet_size": 121.26538461538462,
+        "max_packet_size": 669,
+        "min_packet_size": 42,
+        "flow_duration": 31.982523918151855
+      },
+      "timestamp": 1750788061.2375333
+    }
+  ],
+  "attacks": [],
+  "intrusions": [
+    {
+      "type": "intrusion_alert",
+      "event_count": 3,
+      "events": [
+        {
+          "type": "traffic_anomaly",
+          "anomalies": [
+            "packet_rate_spike"
+          ],
+          "stats": {
+            "packet_count": 1050,
+            "byte_count": 128518,
+            "avg_packet_size": 122.39809523809524,
+            "max_packet_size": 669,
+            "min_packet_size": 42,
+            "flow_duration": 25.28082299232483
+          },
+          "timestamp": 1750788060.3244565
+        },
+        {
+          "type": "traffic_anomaly",
+          "anomalies": [
+            "packet_rate_spike"
+          ],
+          "stats": {
+            "packet_count": 1100,
+            "byte_count": 134774,
+            "avg_packet_size": 122.52181818181818,
+            "max_packet_size": 669,
+            "min_packet_size": 42,
+            "flow_duration": 26.102043867111206
+          },
+          "timestamp": 1750788060.512049
+        },
+        {
+          "type": "traffic_anomaly",
+          "anomalies": [
+            "packet_rate_spike"
+          ],
+          "stats": {
+            "packet_count": 1150,
+            "byte_count": 141271,
+            "avg_packet_size": 122.84434782608696,
+            "max_packet_size": 669,
+            "min_packet_size": 42,
+            "flow_duration": 28.040256023406982
+          },
+          "timestamp": 1750788060.7043977
+        }
+      ],
+      "timestamp": 1750788060.7047467
+    },
+    {
+      "type": "intrusion_alert",
+      "event_count": 4,
+      "events": [
+        {
+          "type": "traffic_anomaly",
+          "anomalies": [
+            "packet_rate_spike"
+          ],
+          "stats": {
+            "packet_count": 1050,
+            "byte_count": 128518,
+            "avg_packet_size": 122.39809523809524,
+            "max_packet_size": 669,
+            "min_packet_size": 42,
+            "flow_duration": 25.28082299232483
+          },
+          "timestamp": 1750788060.3244565
+        },
+        {
+          "type": "traffic_anomaly",
+          "anomalies": [
+            "packet_rate_spike"
+          ],
+          "stats": {
+            "packet_count": 1100,
+            "byte_count": 134774,
+            "avg_packet_size": 122.52181818181818,
+            "max_packet_size": 669,
+            "min_packet_size": 42,
+            "flow_duration": 26.102043867111206
+          },
+          "timestamp": 1750788060.512049
+        },
+        {
+          "type": "traffic_anomaly",
+          "anomalies": [
+            "packet_rate_spike"
+          ],
+          "stats": {
+            "packet_count": 1150,
+            "byte_count": 141271,
+            "avg_packet_size": 122.84434782608696,
+            "max_packet_size": 669,
+            "min_packet_size": 42,
+            "flow_duration": 28.040256023406982
+          },
+          "timestamp": 1750788060.7043977
+        },
+        {
+          "type": "traffic_anomaly",
+          "anomalies": [
+            "packet_rate_spike"
+          ],
+          "stats": {
+            "packet_count": 1200,
+            "byte_count": 145890,
+            "avg_packet_size": 121.575,
+            "max_packet_size": 669,
+            "min_packet_size": 42,
+            "flow_duration": 29.47218608856201
+          },
+          "timestamp": 1750788060.8802075
+        }
+      ],
+      "timestamp": 1750788060.8805254
+    },
+    {
+      "type": "intrusion_alert",
+      "event_count": 5,
+      "events": [
+        {
+          "type": "traffic_anomaly",
+          "anomalies": [
+            "packet_rate_spike"
+          ],
+          "stats": {
+            "packet_count": 1050,
+            "byte_count": 128518,
+            "avg_packet_size": 122.39809523809524,
+            "max_packet_size": 669,
+            "min_packet_size": 42,
+            "flow_duration": 25.28082299232483
+          },
+          "timestamp": 1750788060.3244565
+        },
+        {
+          "type": "traffic_anomaly",
+          "anomalies": [
+            "packet_rate_spike"
+          ],
+          "stats": {
+            "packet_count": 1100,
+            "byte_count": 134774,
+            "avg_packet_size": 122.52181818181818,
+            "max_packet_size": 669,
+            "min_packet_size": 42,
+            "flow_duration": 26.102043867111206
+          },
+          "timestamp": 1750788060.512049
+        },
+        {
+          "type": "traffic_anomaly",
+          "anomalies": [
+            "packet_rate_spike"
+          ],
+          "stats": {
+            "packet_count": 1150,
+            "byte_count": 141271,
+            "avg_packet_size": 122.84434782608696,
+            "max_packet_size": 669,
+            "min_packet_size": 42,
+            "flow_duration": 28.040256023406982
+          },
+          "timestamp": 1750788060.7043977
+        },
+        {
+          "type": "traffic_anomaly",
+          "anomalies": [
+            "packet_rate_spike"
+          ],
+          "stats": {
+            "packet_count": 1200,
+            "byte_count": 145890,
+            "avg_packet_size": 121.575,
+            "max_packet_size": 669,
+            "min_packet_size": 42,
+            "flow_duration": 29.47218608856201
+          },
+          "timestamp": 1750788060.8802075
+        },
+        {
+          "type": "traffic_anomaly",
+          "anomalies": [
+            "packet_rate_spike"
+          ],
+          "stats": {
+            "packet_count": 1250,
+            "byte_count": 151773,
+            "avg_packet_size": 121.4184,
+            "max_packet_size": 669,
+            "min_packet_size": 42,
+            "flow_duration": 30.290671825408936
+          },
+          "timestamp": 1750788061.0502708
+        }
+      ],
+      "timestamp": 1750788061.0506072
+    },
+    {
+      "type": "intrusion_alert",
+      "event_count": 6,
+      "events": [
+        {
+          "type": "traffic_anomaly",
+          "anomalies": [
+            "packet_rate_spike"
+          ],
+          "stats": {
+            "packet_count": 1050,
+            "byte_count": 128518,
+            "avg_packet_size": 122.39809523809524,
+            "max_packet_size": 669,
+            "min_packet_size": 42,
+            "flow_duration": 25.28082299232483
+          },
+          "timestamp": 1750788060.3244565
+        },
+        {
+          "type": "traffic_anomaly",
+          "anomalies": [
+            "packet_rate_spike"
+          ],
+          "stats": {
+            "packet_count": 1100,
+            "byte_count": 134774,
+            "avg_packet_size": 122.52181818181818,
+            "max_packet_size": 669,
+            "min_packet_size": 42,
+            "flow_duration": 26.102043867111206
+          },
+          "timestamp": 1750788060.512049
+        },
+        {
+          "type": "traffic_anomaly",
+          "anomalies": [
+            "packet_rate_spike"
+          ],
+          "stats": {
+            "packet_count": 1150,
+            "byte_count": 141271,
+            "avg_packet_size": 122.84434782608696,
+            "max_packet_size": 669,
+            "min_packet_size": 42,
+            "flow_duration": 28.040256023406982
+          },
+          "timestamp": 1750788060.7043977
+        },
+        {
+          "type": "traffic_anomaly",
+          "anomalies": [
+            "packet_rate_spike"
+          ],
+          "stats": {
+            "packet_count": 1200,
+            "byte_count": 145890,
+            "avg_packet_size": 121.575,
+            "max_packet_size": 669,
+            "min_packet_size": 42,
+            "flow_duration": 29.47218608856201
+          },
+          "timestamp": 1750788060.8802075
+        },
+        {
+          "type": "traffic_anomaly",
+          "anomalies": [
+            "packet_rate_spike"
+          ],
+          "stats": {
+            "packet_count": 1250,
+            "byte_count": 151773,
+            "avg_packet_size": 121.4184,
+            "max_packet_size": 669,
+            "min_packet_size": 42,
+            "flow_duration": 30.290671825408936
+          },
+          "timestamp": 1750788061.0502708
+        },
+        {
+          "type": "traffic_anomaly",
+          "anomalies": [
+            "packet_rate_spike"
+          ],
+          "stats": {
+            "packet_count": 1300,
+            "byte_count": 157645,
+            "avg_packet_size": 121.26538461538462,
+            "max_packet_size": 669,
+            "min_packet_size": 42,
+            "flow_duration": 31.982523918151855
+          },
+          "timestamp": 1750788061.2375333
+        }
+      ],
+      "timestamp": 1750788061.2378502
+    }
+  ],
+  "traffic_classifications": [
+    "browsing",
+    "browsing",
+    "browsing",
+    "browsing",
+    "browsing",
+    "browsing",
+    "browsing",
+    "browsing",
+    "browsing",
+    "browsing",
+    "browsing",
+    "browsing",
+    "browsing",
+    "browsing",
+    "browsing",
+    "browsing",
+    "browsing",
+    "browsing",
+    "browsing",
+    "browsing",
+    "browsing",
+    "browsing",
+    "browsing",
+    "browsing",
+    "browsing",
+    "browsing"
+  ],
+  "pattern_findings": [],
+  "devices": {}
+}

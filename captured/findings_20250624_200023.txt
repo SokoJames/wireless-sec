@@ -1,0 +1,52 @@
+Wi-Fi Traffic Analyzer Findings (20250624_200023)
+Packets processed: 1332
+Devices tracked: 0
+Anomalies detected: 6
+Attacks detected: 0
+Intrusions detected: 4
+Traffic classifications: 26
+Pattern findings: 0
+
+--- Devices ---
+
+--- Findings ---
+{'type': 'Anomaly', 'desc': "{'type': 'traffic_anomaly', 'anomalies': ['packet_rate_spike'], 'stats': {'packet_count': 1050, 'byte_count': 128518, 'avg_packet_size': 122.39809523809524, 'max_packet_size': 669, 'min_packet_size': 42, 'flow_duration': 25.28082299232483}, 'timestamp': 1750788060.3244565}", 'timestamp': 1750788060.3244565}
+{'type': 'Anomaly', 'desc': "{'type': 'traffic_anomaly', 'anomalies': ['packet_rate_spike'], 'stats': {'packet_count': 1100, 'byte_count': 134774, 'avg_packet_size': 122.52181818181818, 'max_packet_size': 669, 'min_packet_size': 42, 'flow_duration': 26.102043867111206}, 'timestamp': 1750788060.512049}", 'timestamp': 1750788060.512049}
+{'type': 'Anomaly', 'desc': "{'type': 'traffic_anomaly', 'anomalies': ['packet_rate_spike'], 'stats': {'packet_count': 1150, 'byte_count': 141271, 'avg_packet_size': 122.84434782608696, 'max_packet_size': 669, 'min_packet_size': 42, 'flow_duration': 28.040256023406982}, 'timestamp': 1750788060.7043977}", 'timestamp': 1750788060.7043977}
+{'type': 'Intrusion', 'desc': "{'type': 'intrusion_alert', 'event_count': 3, 'events': [{'type': 'traffic_anomaly', 'anomalies': ['packet_rate_spike'], 'stats': {'packet_count': 1050, 'byte_count': 128518, 'avg_packet_size': 122.39809523809524, 'max_packet_size': 669, 'min_packet_size': 42, 'flow_duration': 25.28082299232483}, 'timestamp': 1750788060.3244565}, {'type': 'traffic_anomaly', 'anomalies': ['packet_rate_spike'], 'stats': {'packet_count': 1100, 'byte_count': 134774, 'avg_packet_size': 122.52181818181818, 'max_packet_size': 669, 'min_packet_size': 42, 'flow_duration': 26.102043867111206}, 'timestamp': 1750788060.512049}, {'type': 'traffic_anomaly', 'anomalies': ['packet_rate_spike'], 'stats': {'packet_count': 1150, 'byte_count': 141271, 'avg_packet_size': 122.84434782608696, 'max_packet_size': 669, 'min_packet_size': 42, 'flow_duration': 28.040256023406982}, 'timestamp': 1750788060.7043977}], 'timestamp': 1750788060.7047467}", 'timestamp': 1750788060.7047467}
+{'type': 'Anomaly', 'desc': "{'type': 'traffic_anomaly', 'anomalies': ['packet_rate_spike'], 'stats': {'packet_count': 1200, 'byte_count': 145890, 'avg_packet_size': 121.575, 'max_packet_size': 669, 'min_packet_size': 42, 'flow_duration': 29.47218608856201}, 'timestamp': 1750788060.8802075}", 'timestamp': 1750788060.8802075}
+{'type': 'Intrusion', 'desc': "{'type': 'intrusion_alert', 'event_count': 4, 'events': [{'type': 'traffic_anomaly', 'anomalies': ['packet_rate_spike'], 'stats': {'packet_count': 1050, 'byte_count': 128518, 'avg_packet_size': 122.39809523809524, 'max_packet_size': 669, 'min_packet_size': 42, 'flow_duration': 25.28082299232483}, 'timestamp': 1750788060.3244565}, {'type': 'traffic_anomaly', 'anomalies': ['packet_rate_spike'], 'stats': {'packet_count': 1100, 'byte_count': 134774, 'avg_packet_size': 122.52181818181818, 'max_packet_size': 669, 'min_packet_size': 42, 'flow_duration': 26.102043867111206}, 'timestamp': 1750788060.512049}, {'type': 'traffic_anomaly', 'anomalies': ['packet_rate_spike'], 'stats': {'packet_count': 1150, 'byte_count': 141271, 'avg_packet_size': 122.84434782608696, 'max_packet_size': 669, 'min_packet_size': 42, 'flow_duration': 28.040256023406982}, 'timestamp': 1750788060.7043977}, {'type': 'traffic_anomaly', 'anomalies': ['packet_rate_spike'], 'stats': {'packet_count': 1200, 'byte_count': 145890, 'avg_packet_size': 121.575, 'max_packet_size': 669, 'min_packet_size': 42, 'flow_duration': 29.47218608856201}, 'timestamp': 1750788060.8802075}], 'timestamp': 1750788060.8805254}", 'timestamp': 1750788060.8805254}
+{'type': 'Anomaly', 'desc': "{'type': 'traffic_anomaly', 'anomalies': ['packet_rate_spike'], 'stats': {'packet_count': 1250, 'byte_count': 151773, 'avg_packet_size': 121.4184, 'max_packet_size': 669, 'min_packet_size': 42, 'flow_duration': 30.290671825408936}, 'timestamp': 1750788061.0502708}", 'timestamp': 1750788061.0502708}
+{'type': 'Intrusion', 'desc': "{'type': 'intrusion_alert', 'event_count': 5, 'events': [{'type': 'traffic_anomaly', 'anomalies': ['packet_rate_spike'], 'stats': {'packet_count': 1050, 'byte_count': 128518, 'avg_packet_size': 122.39809523809524, 'max_packet_size': 669, 'min_packet_size': 42, 'flow_duration': 25.28082299232483}, 'timestamp': 1750788060.3244565}, {'type': 'traffic_anomaly', 'anomalies': ['packet_rate_spike'], 'stats': {'packet_count': 1100, 'byte_count': 134774, 'avg_packet_size': 122.52181818181818, 'max_packet_size': 669, 'min_packet_size': 42, 'flow_duration': 26.102043867111206}, 'timestamp': 1750788060.512049}, {'type': 'traffic_anomaly', 'anomalies': ['packet_rate_spike'], 'stats': {'packet_count': 1150, 'byte_count': 141271, 'avg_packet_size': 122.84434782608696, 'max_packet_size': 669, 'min_packet_size': 42, 'flow_duration': 28.040256023406982}, 'timestamp': 1750788060.7043977}, {'type': 'traffic_anomaly', 'anomalies': ['packet_rate_spike'], 'stats': {'packet_count': 1200, 'byte_count': 145890, 'avg_packet_size': 121.575, 'max_packet_size': 669, 'min_packet_size': 42, 'flow_duration': 29.47218608856201}, 'timestamp': 1750788060.8802075}, {'type': 'traffic_anomaly', 'anomalies': ['packet_rate_spike'], 'stats': {'packet_count': 1250, 'byte_count': 151773, 'avg_packet_size': 121.4184, 'max_packet_size': 669, 'min_packet_size': 42, 'flow_duration': 30.290671825408936}, 'timestamp': 1750788061.0502708}], 'timestamp': 1750788061.0506072}", 'timestamp': 1750788061.0506072}
+{'type': 'Anomaly', 'desc': "{'type': 'traffic_anomaly', 'anomalies': ['packet_rate_spike'], 'stats': {'packet_count': 1300, 'byte_count': 157645, 'avg_packet_size': 121.26538461538462, 'max_packet_size': 669, 'min_packet_size': 42, 'flow_duration': 31.982523918151855}, 'timestamp': 1750788061.2375333}", 'timestamp': 1750788061.2375333}
+{'type': 'Intrusion', 'desc': "{'type': 'intrusion_alert', 'event_count': 6, 'events': [{'type': 'traffic_anomaly', 'anomalies': ['packet_rate_spike'], 'stats': {'packet_count': 1050, 'byte_count': 128518, 'avg_packet_size': 122.39809523809524, 'max_packet_size': 669, 'min_packet_size': 42, 'flow_duration': 25.28082299232483}, 'timestamp': 1750788060.3244565}, {'type': 'traffic_anomaly', 'anomalies': ['packet_rate_spike'], 'stats': {'packet_count': 1100, 'byte_count': 134774, 'avg_packet_size': 122.52181818181818, 'max_packet_size': 669, 'min_packet_size': 42, 'flow_duration': 26.102043867111206}, 'timestamp': 1750788060.512049}, {'type': 'traffic_anomaly', 'anomalies': ['packet_rate_spike'], 'stats': {'packet_count': 1150, 'byte_count': 141271, 'avg_packet_size': 122.84434782608696, 'max_packet_size': 669, 'min_packet_size': 42, 'flow_duration': 28.040256023406982}, 'timestamp': 1750788060.7043977}, {'type': 'traffic_anomaly', 'anomalies': ['packet_rate_spike'], 'stats': {'packet_count': 1200, 'byte_count': 145890, 'avg_packet_size': 121.575, 'max_packet_size': 669, 'min_packet_size': 42, 'flow_duration': 29.47218608856201}, 'timestamp': 1750788060.8802075}, {'type': 'traffic_anomaly', 'anomalies': ['packet_rate_spike'], 'stats': {'packet_count': 1250, 'byte_count': 151773, 'avg_packet_size': 121.4184, 'max_packet_size': 669, 'min_packet_size': 42, 'flow_duration': 30.290671825408936}, 'timestamp': 1750788061.0502708}, {'type': 'traffic_anomaly', 'anomalies': ['packet_rate_spike'], 'stats': {'packet_count': 1300, 'byte_count': 157645, 'avg_packet_size': 121.26538461538462, 'max_packet_size': 669, 'min_packet_size': 42, 'flow_duration': 31.982523918151855}, 'timestamp': 1750788061.2375333}], 'timestamp': 1750788061.2378502}", 'timestamp': 1750788061.2378502}
+
+--- Traffic Classifications ---
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': 1750788025.6266816}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': 1750788027.7185998}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': 1750788029.663941}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': 1750788030.887845}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': 1750788032.5514832}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': 1750788033.6526322}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': 1750788034.674892}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': 1750788035.4938173}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': 1750788036.2108583}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': 1750788037.538704}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': 1750788038.3583598}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': 1750788039.1783087}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': 1750788039.8931766}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': 1750788040.6103141}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': 1750788042.0431583}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': 1750788043.7835467}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': 1750788044.8498862}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': 1750788045.7846284}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': 1750788047.0566378}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': 1750788047.9778428}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': 1750788049.107683}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': 1750788049.9289038}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': 1750788051.867116}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': 1750788053.299046}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': 1750788054.1175318}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': 1750788055.8093839}
+
+--- Pattern Findings ---

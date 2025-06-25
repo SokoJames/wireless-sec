@@ -1,0 +1,22 @@
+Wi-Fi Traffic Analyzer Findings (20250624_220813)
+Packets processed: 342
+Devices tracked: 0
+Anomalies detected: 0
+Attacks detected: 0
+Intrusions detected: 0
+Traffic classifications: 6
+Pattern findings: 0
+
+--- Devices ---
+
+--- Findings ---
+
+--- Traffic Classifications ---
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': Decimal('1750795649.721932')}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': Decimal('1750795650.472363')}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': Decimal('1750795651.377637')}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': Decimal('1750795651.998586')}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': Decimal('1750795652.789688')}
+{'type': 'browsing', 'src_mac': None, 'dst_mac': None, 'timestamp': Decimal('1750795653.636631')}
+
+--- Pattern Findings ---

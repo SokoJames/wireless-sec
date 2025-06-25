@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-06-25T11:07:19.864415",
+  "packets_processed": 342,
+  "devices_tracked": 0,
+  "anomalies": [],
+  "attacks": [],
+  "intrusions": [],
+  "traffic_classifications": [
+    "browsing",
+    "browsing",
+    "browsing",
+    "browsing",
+    "browsing",
+    "browsing"
+  ],
+  "pattern_findings": [],
+  "devices": {}
+}
