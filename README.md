@@ -41,6 +41,3 @@ python3 main.py
 Thanks to everyone who has contributed!
 [![](https://contrib.rocks/image?repo=SokoJames/wireless-sec)](https://github.com/SokoJames/wireless-sec/graphs/contributors)
 [![](https://contrib.rocks/image?repo=G0032/wireless-sec)](https://github.com/SokoJames/wireless-sec/graphs/contributors)
-
-
-
