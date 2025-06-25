@@ -61,10 +61,9 @@ cd detection_tools/
 | Chimuka Muntanga   | 20231270           |
 | Howard Musakanya   | 20231490           |
 | Luckson Malupande  | 22175237           |
-| Victor Chola       |                    |
-| Hengry Mutale      |                    |
-| Violate Kikumbaila |                    |
-|                    |                    |
+| Victor Chola       | 20231349           |
+| Hengry Mutale      | 20231604           |
+| Violate Kikumbaila | 20231791           |
 
 ## Contributors
 Thanks to everyone who has contributed!
